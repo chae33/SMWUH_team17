@@ -146,6 +146,54 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text = "11:00 ~ 12:00"
+            android:background="@drawable/btn_ripple"
+            android:textColor="@drawable/txt_color"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:minHeight="40dp"
+            android:minWidth="110dp"
+            android:enabled="false"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="155dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_ripple"
+            android:enabled="false"
+            android:minWidth="110dp"
+            android:minHeight="40dp"
+            android:text="12:00 ~ 13:00"
+            android:textColor="@drawable/txt_color"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="280dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_ripple"
+            android:enabled="false"
+            android:minWidth="110dp"
+            android:minHeight="40dp"
+            android:text="13:00 ~ 14:00"
+            android:textColor="@drawable/txt_color"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
 
 
 </LinearLayout>
