@@ -7,17 +7,19 @@
         <entry key="app/src/main/res/drawable/btn_normal.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/btn_ok.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/btn_ripple.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1695" />
         <entry key="app/src/main/res/drawable/txt_color.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_buy.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_buy_detail.xml" value="0.30844879150390625" />
         <entry key="app/src/main/res/layout/activity_chatting.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_chatting_detail.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/activity_chatting_list.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/layout/activity_mypage.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_sell.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_sell_detail.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_sell_setting.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sell_detail.xml" value="0.25075988769531254" />
+        <entry key="app/src/main/res/layout/activity_sell_setting.xml" value="0.29255371093750004" />
       </map>
     </option>
   </component>
